@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'Tại vì em muốn cưới anh....... 😊😊',
     mess: 'Sinh nhật em...Mong cho cuộc sống của em ngày nào cũng vui vẻ và hạnh phúc như ngày tốt nghiệp của em! 😘😘',
     messDesc: 'Thích iu Hân!',
-    btnAccept: 'muốn chụp với e một tấm hình, tấm hình có 3 người ! 💖',
+    btnAccept: 'a muốn chụp chung với e 1 tấm hình...nhắn cho a, nếu e đồng ý nha ! 💖',
     messLink: 'https://www.messenger.com/t/100010410543420/'
 }
